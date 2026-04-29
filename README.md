@@ -32,7 +32,8 @@ Full-stack developer building clean, scalable web applications.
 
 ## 📊 GitHub Stats
 
-![Anas's GitHub stats](https://github-readme-stats.vercel.app/api?username=anasyousafx&show_icons=true&theme=radical)
+<!-- Replace 'YOUR_GITHUB_USERNAME' below with your actual GitHub username -->
+![Anas's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
 
 ---
 
