@@ -43,5 +43,5 @@ Full-stack developer building clean, scalable web applications.
 
 ## Socials
 
-- LinkedIn: &lt;add link&gt;
-- Instagram: &lt;add link&gt;
+- LinkedIn: &lt;www.linkedin.com/in/anas-yousaf-pk&gt;
+- Instagram: &lt;https://www.instagram.com/anasyousafx/&gt;
