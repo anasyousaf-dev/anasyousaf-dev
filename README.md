@@ -32,7 +32,7 @@ Full-stack developer building clean, scalable web applications.
 
 ## 📊 GitHub Stats
 
-![Anas's GitHub stats](https://github-readme-stats.vercel.app/api?username=anasyousaf-dev&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=1800)
+![Anas's GitHub stats](https://github-readme-stats.shion.dev/api?username=anasyousaf-dev&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=1800)
 
 ---
 
