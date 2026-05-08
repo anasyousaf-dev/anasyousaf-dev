@@ -8,27 +8,27 @@ Full-stack developer building clean, scalable web applications.
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp&theme=dark" alt="JavaScript, TypeScript, Python, Java, and C++ icons" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp&theme=dark" alt="Programming languages: JavaScript, TypeScript, Python, Java, and C++" />
 </p>
 
 ### Frontend & UI
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind&theme=dark" alt="HTML, CSS, React, and Tailwind CSS icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind&theme=dark" alt="Frontend and UI: HTML, CSS, React, and Tailwind CSS" />
 </p>
 
 ### Backend & APIs
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postman&theme=dark" alt="Node.js, Express, and Postman icons" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postman&theme=dark" alt="Backend and API technologies: Node.js, Express, and Postman" />
 </p>
 
 ### Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=dark" alt="MongoDB, MySQL, and PostgreSQL icons" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=dark" alt="Database technologies: MongoDB, MySQL, and PostgreSQL" />
 </p>
 
 ### Tools & DevOps
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker&theme=dark" alt="Git, GitHub, and Docker icons" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker&theme=dark" alt="Development tools: Git, GitHub, and Docker" />
 </p>
 
 ---
