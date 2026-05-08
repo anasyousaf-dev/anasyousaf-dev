@@ -6,27 +6,27 @@ Full-stack developer building clean, scalable web applications.
 
 ## 💻 Tech Stack
 
-#### Languages
+### Languages
 <p>
   <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp&theme=dark" alt="Languages" />
 </p>
 
-#### Frontend
+### Frontend
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,react,tailwind&theme=dark" alt="Frontend" />
 </p>
 
-#### Backend
+### Backend
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,postman&theme=dark" alt="Backend" />
 </p>
 
-#### Databases
+### Databases
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=dark" alt="Databases" />
 </p>
 
-#### Tools & DevOps
+### Tools & DevOps
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,docker&theme=dark" alt="Tools and DevOps" />
 </p>
