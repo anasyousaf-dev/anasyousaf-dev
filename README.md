@@ -11,12 +11,12 @@ Full-stack developer building clean, scalable web applications.
   <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp&theme=dark" alt="JavaScript, TypeScript, Python, Java, and C++ icons" />
 </p>
 
-### Frontend
+### Frontend & UI
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,react,tailwind&theme=dark" alt="HTML, CSS, React, and Tailwind CSS icons" />
 </p>
 
-### Backend
+### Backend & APIs
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,postman&theme=dark" alt="Node.js, Express, and Postman icons" />
 </p>
