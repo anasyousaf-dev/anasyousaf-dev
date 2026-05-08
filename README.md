@@ -1,51 +1,46 @@
-# Anas Yousaf
+# Hi, I'm Anas Yousaf 👋
 
-**Full-Stack Developer · Founder @ MedAlerto**
+**Full-Stack Developer · Founder at [MedAlerto](https://medalerto.com)**
 
-Building [MedAlerto](https://medalerto.com) — a clinic management platform with digital prescriptions, appointment scheduling, and WhatsApp-based record delivery. Currently studying Computer Science at UCP Lahore.
-
-I work across the full stack with a focus on building products that actually ship.
+I build practical, production-ready web applications with a strong focus on usability and real-world impact.  
+I am currently pursuing a Computer Science degree at UCP Lahore.
 
 ---
 
 ## 🚀 Featured Project
 
 ### [MedAlerto](https://medalerto.com) — Clinic Management Platform
-> A web-based platform built for modern clinics in Pakistan.
+A modern web platform designed for clinics in Pakistan.
 
-- Digital prescription generation and management
-- WhatsApp-based PDF delivery to patients
-- Appointment scheduling and patient record system
-- Built with: `React` `Node.js` `Express` `MongoDB` `PostgreSQL`
+- Digital prescription creation and management
+- WhatsApp-based PDF delivery for patients
+- Appointment scheduling and patient record management
+- Tech stack: `React` `Node.js` `Express` `MongoDB` `PostgreSQL`
 
 ---
 
 ## 🛠 Tech Stack
 
-**Languages**
-![JS](https://skillicons.dev/icons?i=js,ts,python,java,cpp&theme=dark)
+**Languages**  
+![Languages](https://skillicons.dev/icons?i=js,ts,python,java,cpp&theme=dark)
 
-**Frontend**
+**Frontend**  
 ![Frontend](https://skillicons.dev/icons?i=html,css,react,tailwind&theme=dark)
 
-**Backend & APIs**
+**Backend & APIs**  
 ![Backend](https://skillicons.dev/icons?i=nodejs,express,postman&theme=dark)
 
-**Databases**
+**Databases**  
 ![Databases](https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=dark)
 
-**Tools**
+**Tools**  
 ![Tools](https://skillicons.dev/icons?i=git,github,docker&theme=dark)
 
 ---
 
-## 📌 Other Projects
+## 📌 Additional Work
 
-<!-- Add 2–3 more projects here. Format:
-### [Project Name](repo-link)
-One line: what it does and who it's for.
-Tech: `stack used`
--->
+More project showcases coming soon.
 
 ---
 
